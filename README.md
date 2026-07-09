@@ -13,7 +13,13 @@ Cybersecurity • AI/ML • Networking • Philosophy
 <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />](https://github-readme-stats.vercel.app/api?username=smir1998&show_icons=true&theme=tokyonight&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=smir1998&layout=compact&theme=tokyonight&hide_border=true
+
+https://streak-stats.demolab.com?user=smir1998&theme=tokyonight&hide_border=true
+
+https://github-readme-activity-graph.vercel.app/graph?username=smir1998&theme=github-compact)
 
 </div>
 
