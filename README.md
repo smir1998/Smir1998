@@ -72,8 +72,8 @@ Wireshark • Burp Suite • Kali Linux • VMware • VirtualBox • TCP/IP •
 ## Connect
 
 - GitHub: https://github.com/smir1998
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your email
+- LinkedIn: https://www.linkedin.com/in/smirtiza/
+- Email: syed.mohammad1998@gmail.com
 
 ---
 
