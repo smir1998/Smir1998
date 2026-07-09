@@ -87,6 +87,6 @@ I also value philosophy, ethics, stoicism, and structured self-improvement.
 
 ### Contact
 
-- GitHub: [MY_GITHUB](https://github.com/smir1998)
-- LinkedIn: [MY_LINKEDIN_URL](https://www.linkedin.com/in/smirtiza/)
+- GitHub: https://github.com/smir1998
+- LinkedIn: https://www.linkedin.com/in/smirtiza/
 - Email: syed.mohammad1998@gmail.com
