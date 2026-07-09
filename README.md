@@ -1,98 +1,82 @@
 <div align="center">
 
-<h1>Syed Mohammad Irtiza Rizvi</h1>
+# Hi, I'm Syed Mohammad Irtiza Rizvi
+
+### Cybersecurity • AI/ML • Networking • Philosophy
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI%2FML+Student;Network+Security;Digital+Forensics;Always+Learning" />
 
 <p>
-Cybersecurity • AI/ML • Networking • Philosophy
+<img src="https://img.shields.io/github/followers/smir1998?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/smir1998?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=smir1998&style=for-the-badge"/>
 </p>
-
-<p>
-<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-[<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact" />](https://github-readme-stats.vercel.app/api?username=smir1998&show_icons=true&theme=tokyonight&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=smir1998&layout=compact&theme=tokyonight&hide_border=true
-
-https://streak-stats.demolab.com?user=smir1998&theme=tokyonight&hide_border=true
-
-https://github-readme-activity-graph.vercel.app/graph?username=smir1998&theme=github-compact)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I am a cybersecurity enthusiast and AI/ML student focused on practical security, intelligent systems, and disciplined problem-solving. My work interests include network security, digital forensics, SOC analysis, phishing detection, and security automation.
-
-I also value philosophy, ethics, stoicism, and structured self-improvement.
-
----
-
-### Current Focus
-
-- Cybersecurity and network security
-- AI/ML learning and applied projects
-- Digital forensics and SOC analysis
-- Phishing detection and security automation
-- Research-driven problem solving
+- B.Tech in Computer Science & Engineering
+- AI/ML student
+- Cybersecurity enthusiast
+- Interested in SOC, Digital Forensics, Threat Intelligence, AI Security and Network Security
+- Passionate about philosophy, ethics, stoicism and disciplined thinking
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td><b>Security</b></td>
-<td>Burp Suite, Wireshark, Kali Linux, penetration testing basics</td>
-</tr>
-<tr>
-<td><b>Networking</b></td>
-<td>TCP/IP, OSI model, VLANs, trunking, OSPF, EIGRP</td>
-</tr>
-<tr>
-<td><b>Systems</b></td>
-<td>Linux, VMware, VirtualBox</td>
-</tr>
-<tr>
-<td><b>Programming</b></td>
-<td>Python, Pandas, C++, JavaScript</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,linux,kali,git,github,docker,vscode,tensorflow,pytorch"/>
+</p>
+
+### Security
+
+Wireshark • Burp Suite • Kali Linux • VMware • VirtualBox • TCP/IP • OSI • VLANs • OSPF • EIGRP
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smir1998&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir1998&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=smir1998&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+> If the cards don't appear immediately, GitHub or the third-party services may need some time after your first public commits.
 
 ---
 
-### Featured Work
+## Current Focus
 
-- Security tools and automation
-- AI/ML experiments
-- Networking labs
-- Research and analysis projects
+- AI-powered phishing detection
+- Security automation
+- Digital forensics
+- Secure software engineering
+- Machine Learning
 
 ---
 
-### Contact
+## Philosophy
+
+> "Discipline outlasts motivation."
+
+---
+
+## Connect
 
 - GitHub: https://github.com/smir1998
-- LinkedIn: https://www.linkedin.com/in/smirtiza/
-- Email: syed.mohammad1998@gmail.com
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your email
+
+---
+
+## Quote
+
+> "Seek truth through evidence, reason, and continuous learning."
