@@ -4,7 +4,7 @@
 
 ### Cybersecurity • AI/ML • Networking • Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI%2FML+Student;Network+Security;Digital+Forensics;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI%2FML+Student;Network+Security;Digital+Forensics"/>
 
 <p>
 <img src="https://img.shields.io/github/followers/smir1998?style=for-the-badge"/>
@@ -41,15 +41,18 @@ Wireshark • Burp Suite • Kali Linux • VMware • VirtualBox • TCP/IP •
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smir1998&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir1998&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smir1998&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smir1998&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=smir1998&theme=tokyonight&hide_border=true"/>
 </p>
 
-> If the cards don't appear immediately, GitHub or the third-party services may need some time after your first public commits.
+**💡 Tips:** 
+- If stats cards don't appear, try refreshing the page or waiting a few moments
+- These services may take time to update after your first public commits
+- Check your profile visibility and ensure you have public activity
 
 ---
 
